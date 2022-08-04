@@ -1,1 +1,1 @@
-# discor_bot_for_practice
+#Discord bot for those who crave for memes
