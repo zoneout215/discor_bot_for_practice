@@ -1,1 +1,1 @@
-#Discord bot for those who crave for memes
+# Discord bot for those who crave for memes
